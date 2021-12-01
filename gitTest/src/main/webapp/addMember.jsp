@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Hello Git Test</h1>
-	<h1>hi hi</h1>
-
+	<h1>addMember.jsp</h1>
 </body>
 </html>
