@@ -15,9 +15,14 @@
 			<th>위치</th>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>10</td>
+			<td>IT</td>
+			<td>서울</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>IT</td>
+			<td>제주</td>
 		</tr>
 		
 	</table>
